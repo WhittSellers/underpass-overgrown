@@ -1,0 +1,9 @@
+Notes for Headless Steamvr setup
+
+First Just add "activateMultipleDrivers" : true, "forcedDriver": "null", to near the top of the "steamvr" section of your steamvr.vrsettings config file.
+
+C:\Program Files (x86)\Steam\config\steamvr.vrsettings
+
+Secondly Set enable to true in null driver to enable it.
+
+C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\settings\default.vrsettings 
