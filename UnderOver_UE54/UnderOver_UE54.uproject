@@ -182,6 +182,10 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "OSCToolset",
+			"Enabled": true
 		}
 	]
 }
